@@ -1,0 +1,5 @@
+<archimate:ApplicationProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Convert to Local Data (Optional)"
+    id="c0f71c8b-b1c6-4968-a59a-48691a4927e8"
+    documentation="If a model output is Ordinance Level (relative to sea level) subtract the data point z value to obtain level relative to data point location."/>

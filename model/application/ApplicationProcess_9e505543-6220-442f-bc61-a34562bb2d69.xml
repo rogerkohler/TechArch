@@ -1,0 +1,5 @@
+<archimate:ApplicationProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Convert to Ordinace Data (Optional)"
+    id="9e505543-6220-442f-bc61-a34562bb2d69"
+    documentation="If a model required Ordinance Level Data (relative to sea level) add the data points Z value to the local data relative to the data point location. "/>
