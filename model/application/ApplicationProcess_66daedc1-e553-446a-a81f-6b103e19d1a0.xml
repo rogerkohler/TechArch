@@ -1,0 +1,5 @@
+<archimate:ApplicationProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Apply Transform"
+    id="66daedc1-e553-446a-a81f-6b103e19d1a0"
+    documentation="Standard Transforms Include:&#xD;&#xA;&#x9;Multiplier&#xD;&#xA;&#x9;Constant +/-&#xD;&#xA;&#x9;Temporal Shift +/-"/>

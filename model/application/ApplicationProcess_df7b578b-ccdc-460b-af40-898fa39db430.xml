@@ -1,0 +1,5 @@
+<archimate:ApplicationProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Apply Rain Gauge Weigting"
+    id="df7b578b-ccdc-460b-af40-898fa39db430"
+    documentation="All contributing gauges are weighted such that the total of the weighting is 1.&#xD;&#xA;Each contributing Gauge is then mutiples by its weight and then all values are added together."/>

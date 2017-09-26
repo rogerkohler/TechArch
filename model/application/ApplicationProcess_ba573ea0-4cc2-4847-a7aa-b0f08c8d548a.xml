@@ -1,0 +1,5 @@
+<archimate:ApplicationProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Filter Rain Guage Data"
+    id="ba573ea0-4cc2-4847-a7aa-b0f08c8d548a"
+    documentation="Rain Gauge data set to zero if the temp for the gauge catchment is &lt;1 degree"/>

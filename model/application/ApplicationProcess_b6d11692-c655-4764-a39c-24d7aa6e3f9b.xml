@@ -1,0 +1,5 @@
+<archimate:ApplicationProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Merge Data"
+    id="b6d11692-c655-4764-a39c-24d7aa6e3f9b"
+    documentation="Simple merge of different time series in to a single file. &#xD;&#xA;&lt;site=x>&#xD;&#xA;  &lt;ts/>&#xD;&#xA;&lt;/site>&#xD;&#xA;&lt;site=y>&#xD;&#xA;  &lt;ts/>&#xD;&#xA;&lt;/site>"/>

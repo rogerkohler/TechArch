@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data Sharing Frontend"
+    id="5dbe2b2f-78d0-4c2b-8288-0052e19bab0d"
+    documentation="Sharepoint Site for Distribution of Published Artefacts Including:&#xD;&#xA;&#x9;Forecast Outputs&#xD;&#xA;&#x9;Incident Reports&#xD;&#xA;&#x9;Issued Alerts"/>

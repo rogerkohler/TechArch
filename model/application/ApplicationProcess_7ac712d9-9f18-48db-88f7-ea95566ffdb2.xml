@@ -1,0 +1,5 @@
+<archimate:ApplicationProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Split Rain Fall"
+    id="7ac712d9-9f18-48db-88f7-ea95566ffdb2"
+    documentation="Splits the rainfall file up based on the Catchment Temperature Average.&#xD;&#xA;If the Temp is below 1 degree the rainfall is added to the snow file&#xD;&#xA;if it is above 1 degree the value is added to the rain file. "/>
