@@ -2,4 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Data Hierachy Merge"
     id="63199a60-40cc-4dfc-b85a-c9eb21019c34"
-    documentation="All contributing time series are ordered in to a hierachy based on deemed accuracy.&#xD;&#xA;E.g. for Rainfall this is: &#xD;&#xA;Observed, Radar, NowCast, SR, MR,0 &#xD;&#xA;Processing takes each time step and finds the highest ranked valid value and outputs a single time series.&#xD;&#xA;"/>
+    documentation="All contributing time series are ordered in to a hierachy based on deemed accuracy.&#xD;&#xA;E.g. for Rainfall this is: &#xD;&#xA;Observed, Radar, NowCast, SR, MR,0 &#xD;&#xA;Processing takes each time step and finds the highest ranked valid value and outputs a single time series.&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;Within the Create Upstream Forecast Process this will be applied to groups of upstream forecasts which refer to the same forecast point. (e.g. an FMP as level 1 and a lower confidence PDM for the same point incase the FMP model fails). "/>
